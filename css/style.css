@@ -23,7 +23,7 @@ margin-top: 10px;
 font-size: 40px;
 }
 
-#date  {
+.grey  {
     color: #9c9c9c;
 }
 
@@ -65,4 +65,27 @@ td  {
 
 .light-blue  {
     background-color: #b2e6f2;
+}
+
+/*image*/
+
+#foot-image-1  {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+#foot-image-2  {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+    margin-top: 25px;
 }
