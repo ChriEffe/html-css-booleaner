@@ -48,3 +48,21 @@ font-size: 40px;
 ul  {
     margin-left: 0px;
 }
+
+/*table*/
+
+thead  {
+    background-color: #1aabe6;
+    color: white;
+}
+
+.width-20  {
+    width: 20%;
+}
+td  {
+    height: 50px;
+}
+
+.light-blue  {
+    background-color: #b2e6f2;
+}
