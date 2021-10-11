@@ -1,0 +1,30 @@
+* {margin:0}
+/*header*/
+#intestazione  {
+    background-color: #4da1ff;
+    background-image: url(../img/pattern.png);
+    background-size: 600px;
+    height: 150px;
+}
+
+#logo  {
+    width: 250px;
+    margin-top: 70px;
+}
+
+h1  {
+margin-top: 10px;
+font-size: 40px;
+}
+
+#date  {
+    color: #9c9c9c;
+    font-weight: bold;
+}
+
+#author  {
+    color: #3ab6e9;
+}
+
+/*main*/
+
