@@ -1,5 +1,11 @@
-* {margin:0}
+*  {
+    margin-left: 2px;
+    margin-right: 2px;
+    font-weight: bold;
+}
+
 /*header*/
+
 #intestazione  {
     background-color: #4da1ff;
     background-image: url(../img/pattern.png);
@@ -19,7 +25,6 @@ font-size: 40px;
 
 #date  {
     color: #9c9c9c;
-    font-weight: bold;
 }
 
 #author  {
@@ -28,3 +33,18 @@ font-size: 40px;
 
 /*main*/
 
+#photo  {
+    font-size: 12px;
+}
+
+.margin-20  {
+    margin-top: 20px;
+}
+
+.lorem  {
+    background-color: yellow;
+}
+
+ul  {
+    margin-left: 0px;
+}
